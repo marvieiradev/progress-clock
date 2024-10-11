@@ -7,3 +7,5 @@ Um relógio digital que mostra a hora atual, e preenche seus aneis coloridos ext
 ## Informações
 
 Projeto desenvolvido utilizando apenas HTML, CSS e JavaScript.
+
+<img src="screenshot.jpg"/>
